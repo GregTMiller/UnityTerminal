@@ -14,7 +14,9 @@ Step 1: Install Unity in the DEFAULT SYSTEM PATH. This script assumes all versio
 
 Step 2: Install Python. (You should have this already tbh, very handy language. If you don't, you can get it at https://www.python.org/)
 
-Step 3: Add where you store you project folders to myGitFolders.txt (I included my git folders inside the repo version for reference.)
+Step 3: Clone this repo.
+
+Step 4: Add where you store you project folders to myGitFolders.txt (I included my git folders inside the repo version for reference.)
 
 *Note: This is not required, this is just helpful if you are actually going to use this.*
 
@@ -25,9 +27,13 @@ Step 4: Run the .py program. If you are a smart cookie, you can use auto-py-to-e
 
 Step 1: Install Unity in the DEFAULT SYSTEM PATH. This script assumes all versions of Unity are installed in the default location. If you aren't using the repo version, you can't change it currently.
 
-Step 2: Download the lastest release. (Release here: )
+Step 2: Install Python. (You should have this already tbh, very handy language. If you don't, you can get it at https://www.python.org/)
 
-Step 3: Run and Profit.
+Step 3: Download the lastest release. (Release here: https://github.com/GregTMiller/UnityTerminal/releases/tag/First_Release)
+
+Step 4: Add where you store you project folders to myGitFolders.txt (I included my git folders inside the repo version for reference.)
+
+Step 5: Run and Profit.
 
  
 
